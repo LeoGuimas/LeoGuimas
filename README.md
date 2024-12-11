@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on at Liga de Mossoró, contributing to cancer research<br>
+- 🔭 I’m currently working on at Liga de Mossoró<br>
 - 👨‍💻 Web Developer sharing my journey and insights on APIs, web dev, and design<br>
 - 👨‍🎓 Computer Science student at UFERSA, Brazil<br>
 - 🎨 Creating content on design, tech, and development<br>
