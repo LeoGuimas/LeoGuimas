@@ -1,7 +1,6 @@
 # 💫 About Me:
-- 🔭 I’m currently working on at Liga de Mossoró<br>
 - 👨‍💻 Web Developer sharing my journey and insights on APIs, web dev, and design<br>
-- 👨‍🎓 Computer Science student at UFERSA, Brazil<br>
+- 👨‍🎓 Computer Science student in Brazil<br>
 - 🎨 Creating content on design, tech, and development<br>
 - 🌱 Documenting my growth and projects in my digital space<br>
 - 📚 Currently diving into web APIs and advanced design concepts!
